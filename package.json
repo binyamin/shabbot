@@ -4,7 +4,7 @@
   "private": true,
   "description": "A Probot app",
   "author": "Binyamin Aron Green <binyamingreen@protonmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": "https://github.com/b3u/shabbot.git",
   "homepage": "https://github.com/b3u/shabbot",
   "bugs": "https://github.com/b3u/shabbot/issues",

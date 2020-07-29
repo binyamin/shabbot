@@ -1,7 +1,5 @@
 # shabbot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
-
 ## Setup
 
 ```sh
@@ -20,4 +18,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2020 Binyamin Aron Green <binyamingreen@protonmail.com>
+[MIT](LICENSE) © 2020 Binyamin Aron Green

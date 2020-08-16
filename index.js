@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const moment = require("moment-timezone");
 
-const USER_LOGIN = "b3u";
+const USER_LOGIN = "binyamin";
 const COMMENT_BODY = `@${USER_LOGIN} is not available until <time> on Saturday evening.`;
 const BUFFER_BEFORE = 180;
 

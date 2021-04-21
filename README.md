@@ -18,4 +18,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[MIT](LICENSE) © 2020 Binyamin Aron Green
+[MIT](LICENSE) © 2021 [Binyamin Aron Green](https://binyam.in)

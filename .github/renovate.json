@@ -3,11 +3,10 @@
   "extends": [
     "local>binyamin/.github:renovate-config"
   ],
-  "major": {
-    "packageRules": [
-      {
-        "excludePackageNames": ["node-fetch"]
-      }
-    ]
-  }
+  "packageRules": [
+    {
+      "matchPackageNames": ["node-fetch"],
+      "allowedVersions": "<3.0.0"
+    }
+  ]
 }

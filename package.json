@@ -20,7 +20,7 @@
   "dependencies": {
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "probot": "^11.2.0"
   },
   "devDependencies": {

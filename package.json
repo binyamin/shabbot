@@ -20,11 +20,11 @@
   "dependencies": {
     "moment": "^2.29.3",
     "moment-timezone": "^0.5.34",
-    "node-fetch": "^2.6.7",
-    "probot": "^12.2.4"
+    "node-fetch": "^2.7.0",
+    "probot": "^12.3.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.22"
   },
   "engines": {
     "node": ">= 8.3.0"
